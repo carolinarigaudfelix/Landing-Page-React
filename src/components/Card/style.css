@@ -1,0 +1,16 @@
+
+.card{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+    align-items: center;
+    height: 280px;
+    gap: 12px;
+}
+.card p{
+    margin-bottom: 0;
+}
+.titles{
+    font-weight: bold;
+    margin-bottom: 0;
+}
